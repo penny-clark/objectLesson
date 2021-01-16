@@ -1,0 +1,26 @@
+{
+    "1": {
+        "userId": 1,
+        "songId": 5
+    },
+    "2": {
+        "userId": 2,
+        "songId": 5
+    },
+    "3": {
+        "userId": 3,
+        "songId": 1
+    },
+    "4": {
+        "userId": 7,
+        "songId": 2
+    },
+    "5": {
+        "userId": 3,
+        "songId": 2
+    },
+    "6": {
+        "userId": 4,
+        "songId": 5
+    }
+}

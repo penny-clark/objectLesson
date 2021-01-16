@@ -1,0 +1,40 @@
+{
+    "userList": [
+        {
+            "id": 1,
+            "name": "Eric",
+            "password": "123abc"
+        },
+        {
+            "id": 2,
+            "name": "John",
+            "password": "123"
+         },
+         {
+            "id": 3,
+            "name": "Nancy",
+            "password": "32109"
+         },
+         { 
+            "id": 4,
+            "name": "Brennan",
+            "password": "dontHackMeBro"
+         },
+         {
+            "id": 5,
+            "name": "Paige",
+            "password": "Totino"
+         },
+         {
+            "id": 6,
+            "name": "Penny",
+            "password": "Jeremy"
+         },
+         {
+            "id": 7,
+            "name": "Phoebe",
+            "password": "Snowy"
+         }
+
+    ]
+}

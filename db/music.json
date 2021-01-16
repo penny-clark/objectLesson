@@ -1,0 +1,29 @@
+{
+    "musicList": [
+        {
+            "id": 1,
+            "song": "Paoppp",
+            "artist": "Ned Flanders"
+        },
+        {
+            "id": 2,
+            "song": "Tiger Eyes",
+            "artist": "Guy Cool Man"
+        },
+        {
+            "id": 3,
+            "song": "Gweneth",
+            "artist": "Bertha Fnerth"
+        },
+        {
+            "id": 4,
+            "song": "Waka",
+            "artist": "Flaka"
+        },
+        {
+            "id": 5,
+            "song": "Cool Ranch",
+            "artist": "Doris Dorito"
+        }
+    ]
+}
